@@ -23,6 +23,9 @@ theme = "LoveIt"
   		title = "NEUQer"
   		subtitle = "一个人可以走的很快，但是一群人可以走的更远。"
 
+  [params.social]
+    GitHub = "NEUQer-Tech"
+
   [params.footer]
 	enable = true
 	hugo = true
